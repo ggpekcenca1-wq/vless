@@ -22,4 +22,4 @@ hysteria2://letmein@example.com/?insecure=1&obfs=salamander&obfs-password=gawrgu
 # SSH
 ssh://user:pass@server:22/?pk=pk&hk=hk"
 #Wireguard
-wg://[server]:222/?pk=[private_key]&local_address=10.0.0.2/24&peer_pk=[peer_public_key]&pre_shared_key=[pre_shared_key]&workers=[workers]&mtu=[mtu]&reserved=0,0,0
+wg://[server]:222/?pk=[private_key]&local_address=10.0.0.2/24&peer_pk=[peer_public_key]&pre_shared_key=[pre_shared_key]&workers=[workers]&mtu=[mtu]&reserved=0,0,0 
